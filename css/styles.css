@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  /* Default font-family */
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+.title-skill {
+  font-size: 2.1rem;
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  font-size: 1.7rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.profile {
+  line-height: 2;
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto 130px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-pic {
+  margin-top: 75px;
+  width: 37%;
+}
+
+hr {
+  border: none;
+  border-top: 8px dotted #EAF6F6;
+  width: 5%;
+  margin: 75px auto 75px auto;
+}
+
+.footer-link {
+  margin-right: 40px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.0rem;
+  font-weight: bold;
+  color: #11999E;
+}
+
+a.btn {
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  margin: 50px 0.3em 0.3em 0;
+  border-radius: 2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #FFFFFF;
+  background-color: #4eb5f1;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+a.btn:hover {
+  background-color: #4095c6;
+}
+
+.contact-me {
+  line-height: 2;
+  width: 30%;
+  margin: 0 auto 70px;
+}
+
+.copyright {
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #EAF6F6;
+  font-size: 0.9rem;
+}
+
+.bottom-container {
+  padding: 60px 0 40px 0;
+  background-color: #66BFBF;
+}
+
+.img-1 {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.img-2 {
+  width: 25%;
+  margin-left: 23px;
+  float: right;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.title-text {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 25px;
+  right: 500px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
